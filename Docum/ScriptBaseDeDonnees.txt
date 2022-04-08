@@ -1,0 +1,105 @@
+﻿-- Creation de la BD guichet_automatique
+
+CREATE DATABASE guichet_automatique;
+
+/*
+DROP VIEW vw_retrait_jour;
+DROP VIEW vw_transactions;
+DROP TABLE transactions;
+DROP TABLE types_transactions;
+DROP TABLE clients;
+DROP TABLE statuts;
+DROP TABLE forfaits;
+*/
+
+
+CREATE TABLE forfaits
+(
+    id_forfait INTEGER AUTO_INCREMENT,
+    description VARCHAR(100),
+    solde_minimum DOUBLE,
+    frais_transaction DOUBLE,
+        CONSTRAINT pk_forfaits PRIMARY KEY (id_forfait)
+);
+INSERT INTO forfaits VALUES
+(null, 'Forfait Régulier', 1000, 0.50),
+(null, 'Forfait Avantageux', 2000, 0.25),
+(null, 'Forfait Premium', 2500, 0.10),
+(null, 'Forfait Optimum', 5000, 0.00);
+
+CREATE TABLE statuts
+(
+    id_statut INTEGER,
+    description VARCHAR(50) NOT NULL,
+        CONSTRAINT pk_statuts PRIMARY KEY (id_statut)
+);
+
+INSERT INTO statuts VALUES
+        (1, 'Actif'),
+        (2, 'Inactif');
+
+CREATE TABLE clients
+(
+    id_carte VARCHAR(9),
+    nom VARCHAR(100) NOT NULL,
+    prenom VARCHAR(100) NOT NULL,
+    solde_compte DOUBLE DEFAULT 0,
+    acces_admin BOOLEAN DEFAULT 0,
+    forfait_id INTEGER,
+    nip VARCHAR(5),
+    statut_id INTEGER DEFAULT 1,
+        CONSTRAINT pk_clients PRIMARY KEY (id_carte),
+        CONSTRAINT fk_clients_forfaits FOREIGN KEY (forfait_id) REFERENCES forfaits (id_forfaits),
+        CONSTRAINT fk_clients_statut FOREIGN KEY (statut_id) REFERENCES statuts (id_statut)
+);
+
+CREATE TABLE types_transactions
+(
+    id_type INTEGER AUTO_INCREMENT,
+    description VARCHAR(75) NOT NULL,
+    depot BOOLEAN,
+    retrait BOOLEAN,
+        CONSTRAINT pk_type PRIMARY KEY (id_type)
+);
+
+INSERT INTO types_transactions VALUES
+        (null, "Dépôt d'argent", 1, 0),
+        (null, "Dépôt d'un chèque", 1, 0),
+        (null, "Retrait d'argent", 0, 1),
+        (null, 'Achat', 0, 1),
+        (null, "Frais d'utilisation", 0, 1);
+
+CREATE TABLE transactions
+(
+    id_transaction INTEGER AUTO_INCREMENT,
+    date_transaction DATE,
+    client_id INTEGER,
+    type_id INTEGER,
+    nom_commerce VARCHAR(100),
+    montant DOUBLE,
+        CONSTRAINT pk_transactions PRIMARY KEY (id_transaction),
+        CONSTRAINT fk_transactions_clients FOREIGN KEY (client_id) REFERENCES clients (id_client),
+        CONSTRAINT fk_transactions_types FOREIGN KEY (type_id) REFERENCES types_transactions (id_type)
+);
+ALTER TABLE transactions AUTO_INCREMENT = 10000;
+
+ALTER TABLE transactions ADD frais DOUBLE;
+
+CREATE OR REPLACE VIEW vw_transactions AS
+SELECT id_transaction,
+		client_id,
+		date_transaction,
+        CONCAT(description, ' ', IFNULL(nom_commerce, '')) AS decription,
+        montant,
+        frais
+FROM transactions
+INNER JOIN types_transactions ON type_id = id_type
+ORDER BY id_transaction DESC;
+
+CREATE OR REPLACE VIEW vw_retrait_jour AS
+SELECT client_id,
+		date_transaction,
+        SUM(montant) AS montant_total
+FROM transactions
+WHERE type_id = 3
+GROUP BY client_id, date_transaction;

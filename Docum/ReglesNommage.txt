@@ -1,0 +1,18 @@
+﻿
+Entête de programme : 
+
+// *********************************************************************
+// Programmeur : Met ton nom ici
+// Date : 9 mars 2021
+// Fichier : TaClasse.cs
+//
+// Écris une description ici.
+// *********************************************************************
+
+Maximum 150 caractères par lignes
+
+Variable : camelCase (Le nom doit être représentatif)
+
+Méthode débute par une lettre majuscule
+
+Lorsque'un méthode est terminé faire la doc avec les ///

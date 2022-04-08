@@ -1,0 +1,80 @@
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\GuichetAutomatique.exe.config
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\GuichetAutomatique.exe
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\GuichetAutomatique.pdb
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\Google.Protobuf.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\MySql.Data.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\Renci.SshNet.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\System.Buffers.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\System.Memory.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\Zstandard.Net.dll
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\Google.Protobuf.pdb
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\Google.Protobuf.xml
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\MySql.Data.xml
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\Renci.SshNet.xml
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\System.Buffers.xml
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\System.Memory.xml
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.csprojAssemblyReference.cache
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.FN.Achat.resources
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.FN.Clients.resources
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.FN.Connection.resources
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.FN.DepotRetrait.resources
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.GuichetAutomatique.resources
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.Properties.Resources.resources
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.Visuel.resources
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.csproj.GenerateResource.cache
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.csproj.CoreCompileInputs.cache
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.csproj.CopyComplete
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.exe
+C:\Users\Francis_Admin\Source\Repos\GuichetAutomatique\obj\Debug\GuichetAutomatique.pdb
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\GuichetAutomatique.exe.config
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\GuichetAutomatique.exe
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\GuichetAutomatique.pdb
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\BouncyCastle.Crypto.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\Google.Protobuf.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\K4os.Compression.LZ4.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\K4os.Hash.xxHash.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\MySql.Data.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\Renci.SshNet.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\System.Buffers.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\System.Memory.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\System.Numerics.Vectors.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\Ubiety.Dns.Core.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\Zstandard.Net.dll
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\Google.Protobuf.pdb
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\Google.Protobuf.xml
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\K4os.Compression.LZ4.xml
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\K4os.Hash.xxHash.xml
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\MySql.Data.xml
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\Renci.SshNet.xml
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\System.Buffers.xml
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\System.Memory.xml
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\System.Numerics.Vectors.xml
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.csprojAssemblyReference.cache
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.FN.Achat.resources
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.FN.Clients.resources
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.FN.Connection.resources
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.FN.DepotRetrait.resources
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.GuichetAutomatique.resources
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.Properties.Resources.resources
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.Visuel.resources
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.csproj.GenerateResource.cache
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.csproj.CoreCompileInputs.cache
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.csproj.CopyComplete
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.exe
+F:\4- Hiver 2021\420-417-RI - Génie logiciel\Guichet_Automatique\GuichetAutomatique_Application\obj\Debug\GuichetAutomatique.pdb
