@@ -1,1 +1,2 @@
 # GuichetAutomatique
+School project
